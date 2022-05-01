@@ -7,8 +7,8 @@
 # AAAA
 
 # 결과값
-# arr = [['A', 'A', 'A', 'A']
-#        ['A', 'B', 'C', 'A']
+# arr = [['A', 'A', 'A', 'A'],
+#        ['A', 'B', 'C', 'A'],
 #        ['A', 'A', 'A', 'A']]
 
 arr = [list(input()) for _ in range(int(input()))]
