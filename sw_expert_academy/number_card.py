@@ -1,5 +1,5 @@
 # SW Expert Academy 
-# 파이썬 SW문제해결 기본 - LIST1 7차시 
+# 파이썬 SW문제해결 기본 - LIST1 8차시 
 
 T = int(input())
 result = list()
@@ -20,7 +20,6 @@ for test_case in range(1, T + 1):
             if idx > max:
                 max = idx
     result.append(str(max)+" "+str(mid[max]))
-    print(result)
 
 for idx in range(len(result)):
     print("#"+str(idx+1),result[idx])
