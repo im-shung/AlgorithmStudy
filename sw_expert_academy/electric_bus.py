@@ -1,5 +1,5 @@
 # SW Expert Academy 
-# 파이썬 SW문제해결 기본 - LIST1 6차시 
+# 파이썬 SW문제해결 기본 - LIST1 7차시 
 
 T = int(input())
 
