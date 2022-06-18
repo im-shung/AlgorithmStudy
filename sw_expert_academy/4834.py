@@ -1,5 +1,6 @@
 # SW Expert Academy 
-# 파이썬 SW문제해결 기본 - LIST1 8차시 
+# 4834. [파이썬 S/W 문제해결 기본 - LIST1] 1일차 - 숫자 카드 D2
+
 
 T = int(input())
 
