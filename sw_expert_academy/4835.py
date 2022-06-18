@@ -1,5 +1,5 @@
 # SW Expert Academy 
-# 파이썬 SW문제해결 기본 - LIST1 9차시
+# 4835. [파이썬 S/W 문제해결 기본 - LIST1] 1일차 - 구간합 D2
 
 T = int(input())
 
