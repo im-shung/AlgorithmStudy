@@ -1,5 +1,5 @@
 # SW Expert Academy 
-# 파이썬 SW문제해결 기본 - LIST1 7차시 
+# 4831. [파이썬 S/W 문제해결 기본 - LIST1] 1일차 - 전기버스 D3
 
 T = int(input())
 
