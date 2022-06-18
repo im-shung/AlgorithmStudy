@@ -1,5 +1,5 @@
 # SW Expert Academy 
-# 파이썬 SW문제해결 기본 - LIST1 6차시 
+# 4828. [파이썬 S/W 문제해결 기본 - LIST1] 1일차 - min max D2
 
 T = int(input())
 
